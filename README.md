@@ -27,7 +27,7 @@ Screenshot
 <img width="500" src="https://user-images.githubusercontent.com/63985720/89745720-b4e2f380-daf0-11ea-9786-0b2d6ecaa430.png">
 </br>
   <div>
-    로그(기록) 보기 : 달력 날짜 클릭시 / 원하는 
+    로그(기록) 보기 : 달력 날짜 클릭 시 / 타이핑 
   </div>
 <img width="500" src="https://user-images.githubusercontent.com/63985720/89745723-b6142080-daf0-11ea-946c-9504bad8f38a.png">
 <img width="500" src="https://user-images.githubusercontent.com/63985720/89745724-b7454d80-daf0-11ea-8f61-922539d9077f.png">
