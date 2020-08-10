@@ -22,17 +22,15 @@ Screenshot
   <div>
     내보내기 : Excel 파일로 현재 집주민 현황 저장
   </div>
-<img width="500" src="https://user-images.githubusercontent.com/63985720/89746212-8581b600-daf3-11ea-9578-5fe33f64b63d.png"><img width="500" src="https://user-images.githubusercontent.com/63985720/89746214-874b7980-daf3-11ea-9540-3dce211d94d5.png">  
+<img width="500" height="400" src="https://user-images.githubusercontent.com/63985720/89746212-8581b600-daf3-11ea-9578-5fe33f64b63d.png"><img width="500" src="https://user-images.githubusercontent.com/63985720/89746214-874b7980-daf3-11ea-9540-3dce211d94d5.png">  
 </br>
   <div>
     검색 : 동호수 / 차량번호 / 세대주 명
   </div>
-<img width="500" src="https://user-images.githubusercontent.com/63985720/89745728-b8767a80-daf0-11ea-8a0c-eec47b9b7b2b.png">
-<img width="500" src="https://user-images.githubusercontent.com/63985720/89745720-b4e2f380-daf0-11ea-9786-0b2d6ecaa430.png">
+<img width="500" src="https://user-images.githubusercontent.com/63985720/89745728-b8767a80-daf0-11ea-8a0c-eec47b9b7b2b.png"><img width="500" src="https://user-images.githubusercontent.com/63985720/89745720-b4e2f380-daf0-11ea-9786-0b2d6ecaa430.png">
 </br>
   <div>
     로그(기록) 보기 : 달력 날짜 클릭 시 / 타이핑 
   </div>
-<img width="500" src="https://user-images.githubusercontent.com/63985720/89745723-b6142080-daf0-11ea-946c-9504bad8f38a.png">
-<img width="500" src="https://user-images.githubusercontent.com/63985720/89745724-b7454d80-daf0-11ea-8f61-922539d9077f.png">
+<img width="500" src="https://user-images.githubusercontent.com/63985720/89745723-b6142080-daf0-11ea-946c-9504bad8f38a.png"><img width="500" src="https://user-images.githubusercontent.com/63985720/89745724-b7454d80-daf0-11ea-8f61-922539d9077f.png">
 </div>
