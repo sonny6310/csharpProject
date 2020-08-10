@@ -6,7 +6,7 @@ Screenshot
 -----------
 <div>
   
-<img width="200" src="https://user-images.githubusercontent.com/63985720/89745725-b7454d80-daf0-11ea-8dae-bb59de292f2a.png">
+<img width="200" title="로그인" src="https://user-images.githubusercontent.com/63985720/89745725-b7454d80-daf0-11ea-8dae-bb59de292f2a.png">
 </br>
 <img width="500" src="https://user-images.githubusercontent.com/63985720/89745727-b7dde400-daf0-11ea-9185-275e1f2ce584.png">
 </br>
