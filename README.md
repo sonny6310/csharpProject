@@ -6,7 +6,7 @@ Screenshot
 -----------
 <div>
   <div>
-    로그인
+    로그인화면
   </div>
 <img width="200" title="로그인" src="https://user-images.githubusercontent.com/63985720/89745725-b7454d80-daf0-11ea-8dae-bb59de292f2a.png">
 </br>
