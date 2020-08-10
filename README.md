@@ -22,7 +22,7 @@ Screenshot
   <div>
     내보내기 : Excel 파일로 현재 집주민 현황 저장
   </div>
-<img width="" src="https://user-images.githubusercontent.com/63985720/89746212-8581b600-daf3-11ea-9578-5fe33f64b63d.png"><img width="" src="https://user-images.githubusercontent.com/63985720/89746214-874b7980-daf3-11ea-9540-3dce211d94d5.png">  
+<img width="500" src="https://user-images.githubusercontent.com/63985720/89746212-8581b600-daf3-11ea-9578-5fe33f64b63d.png"><img width="500" src="https://user-images.githubusercontent.com/63985720/89746214-874b7980-daf3-11ea-9540-3dce211d94d5.png">  
 </br>
   <div>
     검색 : 동호수 / 차량번호 / 세대주 명
