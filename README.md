@@ -1,6 +1,15 @@
-c# project
+c#-WinForm project
 -----------
-입주민관리프로젝트
+입주민 (정보) 관리 프로그램
+</br>
+</br>
+MsSQL 이용
+<br/>
+CRUD, log
+<br/>
+Calendar
+<br/>
+save as Excel
 
 Screenshot
 -----------
