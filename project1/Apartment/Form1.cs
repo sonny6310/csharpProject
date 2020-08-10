@@ -13,7 +13,6 @@ namespace Apartment
 {
     public partial class Form1 : Form
     {
-        //string loginConn = "Data Source=192.168.0.200;Initial Catalog=jh_20200611;Persist Security Info=True;User Id=sa;Password=8765432!";
         string loginConn = "Data Source=192.168.0.200;Initial Catalog=jh_20200611;Persist Security Info=True;User Id=sa;Password=8765432!";
 
         public Form1()
