@@ -22,12 +22,13 @@ Screenshot
   <div>
     홈화면
   </div>
-<img width="400" height="350" src="https://user-images.githubusercontent.com/63985720/89745727-b7dde400-daf0-11ea-9185-275e1f2ce584.png">
+  <img width="400" height="350" src="https://user-images.githubusercontent.com/63985720/89745726-b7dde400-daf0-11ea-897d-4bc8d1c2b789.png">
+
 </br>
   <div>
     등록/삭제/수정/내보내기
   </div>
-<img width="400" height="350" src="https://user-images.githubusercontent.com/63985720/89745726-b7dde400-daf0-11ea-897d-4bc8d1c2b789.png">
+<img width="400" height="350" src="https://user-images.githubusercontent.com/63985720/89745727-b7dde400-daf0-11ea-9185-275e1f2ce584.png">
   <div>
     내보내기 : Excel 파일로 현재 집주민 현황 저장
   </div>
